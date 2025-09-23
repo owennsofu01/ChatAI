@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+chromadb
+google-generativeai
+python-dotenv
+sentence-transformers
+beautifulsoup4
+argparse
+textract
